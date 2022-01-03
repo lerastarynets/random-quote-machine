@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,500");
+body {
+  height: 100vh;
+  background: rgb(202, 78, 202);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+}
+
+.quoteContainer {
+  border-radius: 5px;
+  width: 450px;
+  padding: 40px 50px;
+  background: rgb(230, 223, 223);
+}
+.quoteText {
+  font-weight: 500;
+  font-size: 1.25em;
+  text-align: center;
+}
+.quoteAuthor {
+  padding-top: 20px;
+  font-size: 0.85em;
+  text-align: right;
+}
+.quoteButtonContainer {
+  display: flex;
+}
+.quoteButton {
+  background-color: rgb(202, 78, 202);
+  color: rgb(230, 223, 223);
+  border-radius: 5px;
+  height: 38px;
+  border: none;
+  padding: 8px 18px 6px 18px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.quoteButton:hover {
+  opacity: 0.9;
+}
