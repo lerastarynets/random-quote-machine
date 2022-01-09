@@ -2,7 +2,7 @@
 
 ## Live application URL
 
-The project is availableon the following link: [https://lerastarynets.github.io/random-quote-machine/](https://lerastarynets.github.io/random-quote-machine/).
+The project is available on the following link: [https://lerastarynets.github.io/random-quote-machine/](https://lerastarynets.github.io/random-quote-machine/).
 
 ## Technologies
 
